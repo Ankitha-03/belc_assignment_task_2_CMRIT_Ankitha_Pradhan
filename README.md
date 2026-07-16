@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # belc_assignment_task_2_CMRIT_Ankitha_Pradhan
 
 ## What it does
@@ -26,5 +25,5 @@ python task2_test.py
 ## Test Cases
 
 The program passes the required test cases
-=======
+
 
